@@ -53,7 +53,7 @@
  .nav-search{
     display: flex;
     justify-content: space-evenly;
-    background-color: pink;
+   
     width: 620px;
     height:40px;
     border-radius: 4px;
@@ -61,6 +61,7 @@
  }
 
  .search-select{
+    
     background-color: #f3f3f3;
     width: 50px;
     text-align: center;
